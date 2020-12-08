@@ -22,8 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# rspec-ci-demo
-# rspec-ci-demo
-# rspec-ci
-# rspec-ci
 # ci-demo
